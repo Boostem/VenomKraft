@@ -12,4 +12,4 @@ Planned to do:
 
 Maybe to do:
 * Recreate TPPI-tweaks mod in 1.12.2 (Named VK-Tweaks)
-* Look at popular 1.8 - 1.12.2 mods to add to VKPI
+* Look at popular 1.8 - 1.12.2 mods to add to VenomKraft. At the time, I want it to be a TPPI/TPPI2 copy set in 1.12.2 before adding new content
